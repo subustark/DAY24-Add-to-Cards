@@ -77,7 +77,7 @@ return (
     <div className="container">
       <div className="row">
       <div>
-      <h1 style={{textAlign:"center",color:"red"}}> Happy Shooping </h1>
+      <h1 style={{textAlign:"center",color:"blue"}}> Shopping Mart </h1>
       </div>
        <div className="col-lg-9">
           <div className="row">
